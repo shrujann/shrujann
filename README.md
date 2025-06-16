@@ -4,6 +4,6 @@
 
 - 🌱 Currently learning: **NetworkX** for Applied Social Network Analysis.
 - 🤝 Open to collaboration: On projects involving **AI** or **Blockchain** technologies.
-- 💡 Interests: Data Science, Decentralized Apps, and Open Source.
+- 💡 Interests: Data Science, Web3, and Open Source.
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/shrujan-beesetty-64a83a328/) | [Email](mailto:shrujan.beesetty@gmail.com)
 

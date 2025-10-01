@@ -4,6 +4,6 @@
 
 - 🌱 Currently learning: **Agentic AI/XAI and how it works**
 - 🤝 Open to collaboration: On projects involving **AI** or **Blockchain** technologies.
-- 💡 Interests: Data Science, Web3, and Open Source.
+- 💡 Interests: AI, Data Science, FinTech
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/shrujan-beesetty) | [Email](mailto:shrujan.beesetty@gmail.com)
 
